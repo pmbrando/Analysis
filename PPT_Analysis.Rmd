@@ -37,3 +37,7 @@ plot(pressure)
 plot(1:5)
 ```
 
+```{r pressure}
+rnorm(100)
+```
+
